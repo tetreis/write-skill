@@ -39,3 +39,7 @@ Copy everything below the frontmatter in `SKILL.md` into your custom instruction
 The rules are written in the first person ("Read this before writing to me or for me"), so once installed they speak for you. Edit them: add words you can't stand, drop bans you disagree with.
 
 The `description` at the top of `SKILL.md` decides when Claude loads the skill. It lists trigger phrases in English and Portuguese.
+
+## License
+
+MIT. Use, change and share it, and keep the copyright notice. See [LICENSE](LICENSE).
